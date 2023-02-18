@@ -1,0 +1,2 @@
+# CvPropio
+Currículo personal propio.
